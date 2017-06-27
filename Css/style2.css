@@ -1,0 +1,38 @@
+html,body,h1,h2,h3,h4,h5,h6,p,ol,ul,li,pre,code,address,form,fieldset{
+    padding: 0;margin: 0;font-size: 100%;font-weight: normal;} 
+ol{ margin-left: 1.4em; list-style: decimal;}
+ul{ margin-left: 1.4em; list-style: square;}
+img{border:0;}
+/*----------------------------------------------------------------------------------------------*/
+/*----------------------------------------Reseteo de CSS----------------------------------------*/
+
+#principal{
+    float:left; /*El bloque se mantiene a la izq*/
+    width: 580px;
+}
+
+#lateral{
+    margin-left: 600px;
+    padding: 15px;
+    background-color: #E1CDFF;
+}
+
+body{
+    color:#B1967C;
+    font-family: Palatino,serif;
+    padding-top: 100px;
+    background:  #E1CDFF url(../images/fondo_cuerpo.png) repeat-x;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 3em;
+    font-family: "Arial black", sans-serif;
+}
+
+h2{
+    font-size: 2.2em;
+    color: #600;
+    margin-bottom: 5px; 
+}

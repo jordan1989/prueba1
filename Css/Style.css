@@ -1,0 +1,18 @@
+
+
+h1
+{   text-align: center;
+    color: blue;
+    font-family: tahoma;  
+}
+
+p
+{   font-family: tahoma;
+    color: red;
+    font-size: 18px;
+}
+
+body
+{
+    background-color: #F96;
+}
